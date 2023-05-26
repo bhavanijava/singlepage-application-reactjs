@@ -1,0 +1,17 @@
+.footer-container {
+  background-color: navy;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+}
+.social-icons i {
+  color:white;
+}
+.social-icons i:hover {
+  transform: scale(1.2);
+}
+
+

@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .left-section, .right-section {
+    width: 50%;
+  }
+  
+  .output-container {
+    text-align: center;
+  }
+
+  .right-section img {
+    width: 80%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
